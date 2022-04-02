@@ -1,0 +1,42 @@
+#marginLeft {
+    margin-left: 90px;
+}
+
+.form-control {
+    width: 10%;
+    border-color: #FB5849;
+}
+
+.emailSentMessage {
+    color: green;
+}
+
+.errorMessage {
+    color: red;
+}
+
+.comments {
+    width: 210px;
+}
+
+.submit {
+    background-color: #FB5849;
+    color: black;
+}
+
+.reset {
+    background-color: #FB5849;
+    color: black;
+}
+
+#paddingTop8 {
+    padding-top:8px !important;
+}
+
+#fontWeight500 {
+    font-weight:500;
+}
+
+.colorWhite {
+    color:#ffffff;
+}

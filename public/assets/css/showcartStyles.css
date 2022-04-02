@@ -1,0 +1,30 @@
+table, tr, th, td  {
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.paddingAllAround20 {
+    padding: 20px;
+}
+
+.verticalAlignTop {
+    vertical-align: top;
+}
+
+.displayNone {
+    display:none;
+}
+
+.paddingAllAround10 {
+    padding: 10px;
+}
+
+.menuTextColor {
+    color:#ffffff";
+}
+
+input[type=submit] {
+background-color: #FB5849 !important; 
+    color: black !important;
+}
